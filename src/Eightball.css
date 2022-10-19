@@ -1,0 +1,25 @@
+.eightball {
+  height: 425px;
+  width: 425px;
+  border-radius: 100%;
+  margin: 40px auto;
+  color: white;
+  font-size: 2.5rem;
+  line-height: 425px;
+}
+
+.black {
+  background-color: black;
+}
+
+.green {
+  background-color: green;
+}
+
+.goldenrod {
+  background-color: goldenrod;
+}
+
+.red {
+  background-color: red;
+}
